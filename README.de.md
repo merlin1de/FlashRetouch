@@ -16,16 +16,14 @@ beides nicht passt. Deutsch oder Englisch, wie es Ihnen lieber ist.
 FlashRetouch ist im **Alpha-Stadium**. Stände laufen 30 Tage nach ihrem Bau ab;
 der Über-Dialog zeigt das Datum und holt den nächsten.
 
-## Bevor Sie ein Bild anhängen
+## Bilder helfen
 
-Dieses Repository ist öffentlich. Was Sie an ein Issue hängen, ist es auch — und
-bleibt abrufbar, nachdem Sie es gelöscht haben.
+Ein Retuschefehler ist ohne Bild kaum zu beurteilen — hängen Sie das Foto also
+gern an, einfach ins Issue ziehen.
 
-FlashRetouch arbeitet an Portraits, und Portraits sind Menschen. **Hängen Sie
-nie ein Bild an, das Sie nicht veröffentlichen dürfen** — dazu gehören
-Kundenaufnahmen und alles, wofür keine Freigabe des Modells vorliegt. Eine
-Beschreibung reicht fast immer; wenn wirklich ein Bild nötig ist, finden wir
-einen nicht-öffentlichen Weg.
+Eine Bedingung: dieses Repository ist öffentlich, und ein Anhang bleibt
+abrufbar, auch nachdem er gelöscht wurde. Hängen Sie deshalb nur Bilder an, an
+denen Sie **alle Rechte zur Veröffentlichung** haben.
 
 ---
 
