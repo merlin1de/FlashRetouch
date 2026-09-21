@@ -1,0 +1,42 @@
+name: Feature request
+description: An idea for something FlashRetouch should do
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Write in **English or German**, whichever suits you.
+
+        The most useful requests describe the *situation*, not the solution — what you
+        were doing when you wished for it. That often leads somewhere better than the
+        feature as first imagined.
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: What are you trying to do?
+      description: The moment in your work where FlashRetouch gets in the way.
+      placeholder: |
+        After a beauty shoot I have 40 selects that all need the same skin work, and
+        I set every slider by hand for each one.
+    validations:
+      required: true
+
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would help?
+      description: If you already have a shape in mind, describe it. If not, that's fine too.
+
+  - type: input
+    id: workflow
+    attributes:
+      label: What do you shoot?
+      description: Helps to judge how common the situation is.
+      placeholder: "Beauty and portrait, ~50 finals per job, Photoshop afterwards"
+
+  - type: textarea
+    id: today
+    attributes:
+      label: How do you handle it today?
+      description: Another program, a workaround, or simply not at all.
