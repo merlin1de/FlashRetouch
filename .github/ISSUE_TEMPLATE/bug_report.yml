@@ -89,6 +89,18 @@ body:
       required: false
 
   - type: textarea
+    id: picture
+    attributes:
+      label: The picture
+      description: |
+        A retouching bug is hard to judge without seeing it — drop the image straight
+        into this field. A crop around the spot works as well as the whole frame, and
+        a before/after pair is the most useful of all.
+
+        This repository is public, and an attachment stays retrievable after deletion.
+        Please only attach images you hold all rights to publish.
+
+  - type: textarea
     id: extra
     attributes:
       label: Anything else
@@ -97,10 +109,6 @@ body:
         `%AppData%\FlashRetouch\app.log`; the last lines around the time it happened
         are usually enough — please skim them first, they contain your folder and
         file names.
-
-        **Please do not attach photographs of people.** See the note in the README:
-        this repository is public, and an upload cannot be taken back. A description
-        is almost always enough.
 
   - type: checkboxes
     id: checks
@@ -111,5 +119,5 @@ body:
           required: false
         - label: I searched the existing issues
           required: false
-        - label: There is no photograph of a person in this report
+        - label: If a photo is attached — I hold all rights to publish it
           required: false
