@@ -15,15 +15,14 @@ neither fits. English or German, whichever suits you.
 FlashRetouch is in **alpha**. Builds expire 30 days after they were made; the
 about window shows the date and can fetch the next one.
 
-## Before you attach a picture
+## Pictures help
 
-This repository is public. Anything you attach to an issue is public too, and
-stays retrievable after deletion.
+A retouching bug is hard to judge without seeing it, so please attach the
+picture if you can — drop it straight into the issue.
 
-FlashRetouch works on portraits, and portraits are people. **Never attach an
-image you do not have the right to publish** — that includes your clients' work
-and anything a model has not released. A description of what went wrong is
-almost always enough; if a picture really is needed, we will find a private way.
+One condition: this repository is public, and an attachment stays retrievable
+even after it is deleted. So only attach images **you hold all rights to
+publish**.
 
 ---
 
