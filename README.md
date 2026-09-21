@@ -7,6 +7,8 @@ Portrait retouching for Windows. Runs locally on your machine — no cloud, no u
 * Product and download: [flashretouch.net](https://flashretouch.net)
 * Made by [Whitespace Software](https://www.whitespace.de)
 
+English · [Deutsch](README.de.md)
+
 ## Reporting
 
 Use [Issues](../../issues) — bug report, feature request, or a blank issue if

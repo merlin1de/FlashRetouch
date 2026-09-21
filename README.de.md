@@ -8,6 +8,8 @@ kein Upload.
 * Produkt und Download: [flashretouch.net](https://flashretouch.net)
 * Von [Whitespace Software](https://www.whitespace.de)
 
+[English](README.md) · Deutsch
+
 ## Melden
 
 Über [Issues](../../issues) — Fehlerbericht, Wunsch, oder ein leeres Issue, wenn

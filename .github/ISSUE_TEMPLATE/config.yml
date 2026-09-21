@@ -1,9 +1,9 @@
-# LEERE ISSUES SIND ERLAUBT - anders als bei FlashView.
+# LEERE ISSUES SIND ERLAUBT – anders als bei FlashView.
 #
 # Dort steht blank_issues_enabled: false, weil die zwei Vorlagen den Bedarf
 # decken. FlashRetouch ist in der Alpha, und in einer Alpha kommen Meldungen,
-# die in keine Form passen ("das Ergebnis sieht komisch aus, ich weiss nicht
-# warum"). Genau die sind die wertvollsten - eine Vorlage, die sie abweist,
+# die in keine Form passen ("das Ergebnis sieht komisch aus, ich weiß nicht
+# warum"). Genau die sind die wertvollsten – eine Vorlage, die sie abweist,
 # kostet mehr als sie ordnet.
 blank_issues_enabled: true
 contact_links:
