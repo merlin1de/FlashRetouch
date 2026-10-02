@@ -1,4 +1,6 @@
-# FlashRetouch
+<p align="center">
+  <a href="https://flashretouch.net"><img src=".github/flashretouch-banner.png" alt="FlashRetouch - portrait retouching for Windows" width="800"></a>
+</p>
 
 Portrait retouching for Windows. Runs locally on your machine — no cloud, no upload.
 
