@@ -2,7 +2,7 @@
   <a href="https://flashretouch.net"><img src=".github/flashretouch-banner.png" alt="FlashRetouch - Porträtretusche für Windows" width="800"></a>
 </p>
 
-Portrait-Retusche für Windows. Läuft lokal auf Ihrem Rechner — keine Cloud,
+Portrait-Retusche für Windows. Läuft lokal auf deinem Rechner — keine Cloud,
 kein Upload.
 
 **Dieses Repository ist ein Fehler-Tracker. Hier liegt kein Quellcode.**
@@ -15,19 +15,19 @@ kein Upload.
 ## Melden
 
 Über [Issues](../../issues) — Fehlerbericht, Wunsch, oder ein leeres Issue, wenn
-beides nicht passt. Deutsch oder Englisch, wie es Ihnen lieber ist.
+beides nicht passt. Deutsch oder Englisch, wie es dir lieber ist.
 
 FlashRetouch ist im **Alpha-Stadium**. Stände laufen 30 Tage nach ihrem Bau ab;
 der Über-Dialog zeigt das Datum und holt den nächsten.
 
 ## Bilder helfen
 
-Ein Retuschefehler ist ohne Bild kaum zu beurteilen — hängen Sie das Foto also
+Ein Retuschefehler ist ohne Bild kaum zu beurteilen — häng das Foto also
 gern an, einfach ins Issue ziehen.
 
 Eine Bedingung: dieses Repository ist öffentlich, und ein Anhang bleibt
-abrufbar, auch nachdem er gelöscht wurde. Hängen Sie deshalb nur Bilder an, an
-denen Sie **alle Rechte zur Veröffentlichung** haben.
+abrufbar, auch nachdem er gelöscht wurde. Häng deshalb nur Bilder an, an
+denen du **alle Rechte zur Veröffentlichung** hast.
 
 ---
 
